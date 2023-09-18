@@ -12,4 +12,3 @@ The repository is presented in report. This includes:
 
 The report has been written by Vietnamese
 
-# hospital-management-sql
